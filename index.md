@@ -2,7 +2,7 @@
 layout: default
 title: Jekyll
 nav_order: 1
-description: "Jekyll"
+description: "Newspaper can be fun!"
 has children: true
 ---
 
