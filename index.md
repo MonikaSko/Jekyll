@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Jekyll
+title: Persona
 nav_order: 1
-description: "Newspaper can be fun!"
+description: "Persona"
 has children: true
 ---
 
-# What can you actually do  
-Here you will learn how you can send newspaper to print
+# Who will be sending newspaper to print? 
+Only the brave ones!
