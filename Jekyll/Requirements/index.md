@@ -4,7 +4,7 @@ title: Requirements
 nav_order: 3
 description: "Requirements"
 Has children: true
-parent: Jekyll
+Parent: Jekyll
 
 ---
 
