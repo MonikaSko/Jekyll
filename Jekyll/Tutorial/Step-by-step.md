@@ -18,4 +18,4 @@ Parent: Tutorial
 6. Progress tracking - in%
 7. Checking with print shop if all is OK - request to check the file, arrange the delivery date
 8. Preparation of a print order and delivery schedule (quantity correction)  
-9. Success! 
+9. Success!
