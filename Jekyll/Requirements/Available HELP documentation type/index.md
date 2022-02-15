@@ -4,7 +4,7 @@ title: Available HELP documentation type
 nav_order: 2
 description: "Available HELP documentation type"
 Parent: Requirements
-Grandparent: Newspaper
+Grandparent: Jekyll
 ---
 
 <!-- Example of another paragraph -->

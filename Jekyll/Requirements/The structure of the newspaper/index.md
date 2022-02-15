@@ -4,7 +4,7 @@ title: The structure of the newspaper
 nav_order: 1
 description: "The structure of the newspaper"
 Parent: Requirements
-Grandparent: Newspaper
+Grandparent: Jekyll
 ---
 
 <!-- Example of another paragraph -->

@@ -4,7 +4,7 @@ title: Requirements
 nav_order: 2
 description: "Requirements"
 Has children: true
-parent: Newspaper
+parent: Jekyll
 permalink: /
 ---
 
