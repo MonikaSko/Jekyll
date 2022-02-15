@@ -3,7 +3,7 @@ layout: default
 title: Persona
 nav_order: 1
 description: Persona
-parent: Jekyll
+parent: Newspaper
 ---  
 
 <!-- Example of paragraph of text -->
