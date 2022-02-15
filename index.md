@@ -6,5 +6,5 @@ description: "Jekyll"
 has children: true
 ---
 
-# My first document  
-This is my document
+# What can you actually do  
+Here you will learn how you can send newspaper to print
