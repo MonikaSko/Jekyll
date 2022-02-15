@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tutorial
-nav_order: 1
+nav_order: 4
 description: "Tutorial"
 has children: true
 has grandchildren: true

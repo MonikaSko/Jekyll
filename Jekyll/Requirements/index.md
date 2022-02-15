@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Requirements
-nav_order: 2
+nav_order: 3
 description: "Requirements"
 Has children: true
 parent: Jekyll
-permalink: /
+
 ---
 
 <!-- Example of another paragraph -->
