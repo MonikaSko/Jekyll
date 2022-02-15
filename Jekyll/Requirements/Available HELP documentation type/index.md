@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Available HELP documentation type
-nav_order: 2
+nav_order: 3.2
 description: "Available HELP documentation type"
 Parent: Requirements
 Grandparent: Jekyll

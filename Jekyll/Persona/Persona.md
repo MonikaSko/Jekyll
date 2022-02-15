@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Persona
-nav_order: 2
+nav_order: 2.1
 description: "Persona"
 parent: Jekyll
 ---  
