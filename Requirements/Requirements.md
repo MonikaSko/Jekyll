@@ -3,8 +3,7 @@ layout: default
 title: Requirements
 nav_order: 2
 description: "Requirements"
-Parent: yes
-Child: The structure of the newspaper
+Has children: true
 permalink: /
 ---
 
