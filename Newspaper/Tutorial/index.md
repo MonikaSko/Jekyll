@@ -4,8 +4,9 @@ title: Tutorial
 nav_order: 1
 description: "Tutorial"
 has children: true
+has grandchildren: true
 Parent: Newspaper
 ---
 
 # My first tutorial 
-This is my tutorial
+Let's learn!
