@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Available help documentation type
-nav_order: 3.2
-description: "Available help documentation type"
+nav_order: 2
 Parent: Requirements
 
 ---

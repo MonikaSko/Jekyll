@@ -2,9 +2,7 @@
 layout: default
 title: Requirements
 nav_order: 3
-description: "Requirements"
 has children: true
-
 
 ---
 

@@ -3,7 +3,6 @@ layout: default
 title: Persona
 nav_order: 2
 description: "Persona"
-has children: true
 
 ---  
 
@@ -21,4 +20,3 @@ has children: true
 * **Stress Level** - 4/5
 * **Process knowledge** - 2/5
 * **Attention to detail** - 3/5  
-* 
