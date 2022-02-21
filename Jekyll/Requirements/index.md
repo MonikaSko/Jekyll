@@ -3,7 +3,7 @@ layout: default
 title: Requirements
 nav_order: 3
 has children: true
-parent: Jekyl
+parent: Jekyll
 ---
 
 <!-- Example of another paragraph -->
