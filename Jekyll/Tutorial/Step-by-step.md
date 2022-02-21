@@ -4,11 +4,11 @@ title: Step-by-Step
 nav_order: 7
 description: "Step-by-Step"
 Parent: Tutorial
-
+grand_parent: Jekyll
 ---
 
 <!-- Example of another paragraph -->
-## Step-by-step  
+### Step-by-step  
 
 1. Creating PDF file in a printable version (with bleeds)  
 2. Checking whether it is technically OK  

@@ -4,11 +4,11 @@ title: How-to-with-links
 nav_order: 8
 description: "How-to-with-links"
 Parent: Tutorial
-Grandparent: Jekyll
+grand_parent: Jekyll
 ---
 
 <!-- Example of another paragraph -->
-# How-to-with-link
+### How-to-with-link
 
 1. Download below templates and use them when preparing a print order and delivery schedule 
    ![template](https://templatedata.net/wp-content/uploads/2021/06/truck-delivery-schedule-template.jpg)
