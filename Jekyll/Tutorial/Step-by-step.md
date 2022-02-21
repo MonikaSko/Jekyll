@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step-by-Step
-nav_order: 4.1
+nav_order: 7
 description: "Step-by-Step"
 Parent: Tutorial
 

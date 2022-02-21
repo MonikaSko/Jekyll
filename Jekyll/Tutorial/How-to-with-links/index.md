@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How-to-with-links
-nav_order: 4.2
+nav_order: 8
 description: "How-to-with-links"
 Parent: Tutorial
 Grandparent: Jekyll

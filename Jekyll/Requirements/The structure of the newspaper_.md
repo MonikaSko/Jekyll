@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The structure of the newspaper
-nav_order: 3.1
+nav_order: 4
 Parent: Requirements
 
 ---

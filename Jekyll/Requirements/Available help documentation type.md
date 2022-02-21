@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Available help documentation type
-nav_order: 3.2
+nav_order: 5
 Parent: Requirements
 
 ---
