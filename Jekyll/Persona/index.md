@@ -7,7 +7,7 @@ description: "Persona"
 ---  
 
 <!-- Example of paragraph of text -->
-# Persona  
+## Persona  
 
 * **Job description** - assistant working in our newspaper
 * **Industry** - psychology, education, agriculture  

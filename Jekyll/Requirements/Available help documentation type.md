@@ -7,7 +7,7 @@ Parent: Requirements
 ---
 
 <!-- Example of another paragraph -->
-## Available-HELP-documentation-type
+### Available-HELP-documentation-type
 
 * Tutorials - instruction with detailed pictures in PDF/MP4
 * Guide - advanced knowledge of the process in MP4
