@@ -3,7 +3,7 @@ layout: default
 title: Available help documentation type
 nav_order: 5
 Parent: Requirements
-grand_parent: Jekyll
+grand_parent: Jekyl
 ---
 
 <!-- Example of another paragraph -->

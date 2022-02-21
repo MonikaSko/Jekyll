@@ -3,7 +3,7 @@ layout: default
 title: The structure of the newspaper
 nav_order: 4
 Parent: Requirements
-grand_parent: Jekyll
+grand_parent: Jekyl
 ---
 
 <!-- Example of another paragraph -->
