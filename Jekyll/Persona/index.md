@@ -2,7 +2,7 @@
 layout: default
 title: Persona
 nav_order: 2
-parent: Jekyll
+
 ---  
 
 <!-- Example of paragraph of text -->
