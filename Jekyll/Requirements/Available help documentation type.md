@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Available help documentation type
-nav_order: 5
+nav_order: 6
 Parent: Requirements
 grand_parent: Jekyll
 ---
