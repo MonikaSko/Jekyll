@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step-by-Step
-nav_order: 8
+nav_order: 7
 description: "Step-by-Step"
 Parent: Tutorial
 grand_parent: Jekyll
