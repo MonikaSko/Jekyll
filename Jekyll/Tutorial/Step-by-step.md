@@ -3,8 +3,8 @@ layout: default
 title: Step-by-Step
 nav_order: 7
 description: "Step-by-Step"
-Parent: Tutorial
-Grand_parent: Jekyll
+parent: Tutorial
+grand_parent: Jekyll
 ---
 
 <!-- Example of another paragraph -->

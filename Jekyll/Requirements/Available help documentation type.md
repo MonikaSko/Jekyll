@@ -2,7 +2,7 @@
 layout: default
 title: Available help documentation type
 nav_order: 5
-Parent: Requirements
+parent: Requirements
 grand_parent: Jekyll
 ---
 
