@@ -3,8 +3,8 @@ layout: default
 title: How-to-with-links
 nav_order: 8
 description: "How-to-with-links"
-parent: Tutorial
-grand_parent: Jekyll
+Parent: Tutorial
+Grand_parent: Jekyll
 ---
 
 <!-- Example of another paragraph -->
